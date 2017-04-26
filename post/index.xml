@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Icarus</title>
+    <link>https://trafy.github.io/NewSite/post/index.xml</link>
+    <description>Recent content in Posts on Icarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Wed, 26 Apr 2017 16:11:17 -0400</lastBuildDate>
+    <atom:link href="https://trafy.github.io/NewSite/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello Person</title>
+      <link>https://trafy.github.io/NewSite/2017/04/26/hello-person</link>
+      <pubDate>Wed, 26 Apr 2017 16:11:17 -0400</pubDate>
+      
+      <guid>https://trafy.github.io/NewSite/2017/04/26/hello-person</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
